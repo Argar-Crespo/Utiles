@@ -1,7 +1,12 @@
-package org.example
+package utils
+
+/** Document kt dedicat al emmagatzematge de les dades que s'han d'usar per tal de posar colors als menús.
+ * @author Raimon Izard
+ */
 
 // Reset
 const val RESET: String = "\u001b[0m" // Text Reset
+
 
 // Regular Colors
 const val BLACK: String = "\u001b[0;30m" // BLACK
